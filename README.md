@@ -1,2 +1,2 @@
 # Machine Learning
- I added some of my Machine learning and Deep learning coding and project in this repository. 
+ I added some of my Machine learning and Deep learning coding and projects in this repository. 
